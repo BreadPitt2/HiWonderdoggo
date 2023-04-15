@@ -1,0 +1,11 @@
+#mode: "client"
+#ap_mode:
+#  ssid: "PuppyPi"
+#  band: 5
+#  channel: 149
+#  password: "hiwonder"
+#  gateway: "192.168.149.1"
+#client_mode:
+#  ssid: "ssid"
+#  password: "12345678"
+#  timeout: 30
